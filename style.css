@@ -1,0 +1,65 @@
+.diseño {
+    color:rgb(25, 0, 39);
+}
+.historia {
+    color:rgb(27, 5, 37);
+}
+.jugabilidad {
+    color:rgb(33, 16, 49);
+}
+.imagenes {
+    color:rgb(44, 29, 56);
+}
+html {
+    font-size:15px;
+    font-family: "Tilt Neon";
+}
+header {
+    color:rgba(236, 207, 232, 0.781);
+    font-size:30px;
+    text-align:center; 
+    background-color: rgb(24, 3, 44);
+    border:20px solid rgb(211, 147, 202);
+}
+h2 {
+    font-size:50px;
+    border:10px solid rgb(0, 0, 0);
+    border-radius:10%;
+    border-style:inset;
+    text-align:left;
+    padding: 0px 0px 00px 20px;
+    text-shadow: 0.07em 0.07em rgb(255, 255, 255);
+    background-color: rgb(137, 100, 172);
+}
+p {
+    font-size: 25px;
+    text-align:justify;
+    padding: 20px;
+    background-color: rgb(199, 88, 233);
+}
+h3 { 
+    color:rgb(38, 31, 44);
+    font-size: 25px;
+    text-align:center;
+}
+a {
+    color:rgb(38, 31, 44);
+}
+a:hover {
+         color: rgb(0, 0, 0); 
+}  
+body {
+    background-image: url(https://i.pinimg.com/564x/f3/8e/86/f38e8695aa6fda8fbab8242939af7e8b.jpg);
+    background-repeat:round;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+footer{
+    padding-top:10px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
+  
